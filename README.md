@@ -15,7 +15,9 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a backgro
 ## 🌟 Featured Projects
 
 - **[Chess Elo Prediction](https://github.com/thenemchua/chess-elo-prediction)**  
-Built a CNN model to predict the elo rating of the players of a game. MAE:350  \CNN-LSTM testing in progress !
+Built a CNN model to predict the elo rating of the players of a game. MAE:350
+
+CNN-LSTM testing in progress !
 
 ---
 
