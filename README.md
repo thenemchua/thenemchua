@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a backgro
 ## 🌟 Featured Projects
 
 - **[Chess Elo Prediction](https://github.com/thenemchua/chess-elo-prediction)**  
-  Built a machine learning model to predict delays in railway networks using historical and real-time data. Achieved a 90% accuracy rate with decision trees and ensemble methods.
-
+Built a CNN model to predict the elo rating of the players of a game.
+CNN-LSTM testing in progress !
 ---
 
 ## 📊 GitHub Stats
