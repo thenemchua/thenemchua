@@ -19,10 +19,10 @@ Built a CNN model to predict the elo rating of the players of a game. MAE:350
 CNN-LSTM testing in progress!
 
 - **[SNCF Railway Graph](https://github.com/thenemchua/sncf_railway_graph/blob/main/railway_graph.ipynb)**  
-Recreated a graph of the french railway network using SNCF OpenData, GeoPandas and NetworkX !
+Recreated a graph of the french railway network using SNCF OpenData, GeoPandas and NetworkX!
 
 - **[Portfolio Website](https://github.com/thenemchua/portfolio-site)**  
-Check out the code of my portfolio website, deployment in progress !
+Check out the code of my portfolio website, deployment in progress!
 
 ---
 
