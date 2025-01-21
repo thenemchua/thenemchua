@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a backgro
 
 ## 🔧 Tech Stack
 - **Languages**: Python, Java, SQL
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, FastAPI
-- **Tools**: Docker, Git, LocalSolver
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, FastAPI, BigQuery
+- **Tools**: Docker, Git, GCP, LocalSolver
 - **Other Skills**: Data Visualization, Statistical Modeling, Optimization Algorithms
 
 ---
