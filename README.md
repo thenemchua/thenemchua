@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alain LIM!
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a background in **Industrial Engineering** and a keen interest in leveraging data to solve real-world problems. Recently, I completed an intensive **Data Science and AI bootcamp at Le Wagon**, where I honed my skills in end-to-end data analysis and machine learning solutions.
+Welcome to my GitHub profile! I'm a passionate **Engineer** with a background in **Industrial Engineering** and a keen interest in leveraging data to solve real-world problems. Recently, I completed an intensive **Data Science and AI bootcamp at Le Wagon**, where I honed my skills in end-to-end data analysis and machine learning solutions.
 
 ---
 
