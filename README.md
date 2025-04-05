@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Engineer** with a background in
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Python, Java, SQL, currently learning cpp !
+- **Languages**: Python, Java, SQL, currently learning C++ !
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, FastAPI, BigQuery
 - **Tools**: Docker, Git, GCP, LocalSolver
 - **Other Skills**: Data Visualization, Statistical Modeling, Optimization Algorithms
