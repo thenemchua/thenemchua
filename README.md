@@ -24,6 +24,9 @@ Recreated a graph of the french railway network using SNCF OpenData, GeoPandas a
 - **[Portfolio Website](https://github.com/thenemchua/portfolio-site)**  
 Check out the code of my portfolio website, deployment in progress!
 
+- **[CSES Problems](https://github.com/thenemchua/cses-problems)**  
+Learning C++ by solving CSES problems, track my progression!
+
 ---
 
 ## 📊 GitHub Stats
